@@ -32,5 +32,7 @@ A simple and interactive password input field with a toggle feature to show or h
 
 ## Demo.gif
 
+![Image](https://github.com/user-attachments/assets/63442f41-1c96-497d-a391-3b385d94b421)
+
 
 
