@@ -1,5 +1,13 @@
 # 🔒 Password Toggle Feature
 
+---
+
+## Demo.gif
+
+![Image](https://github.com/user-attachments/assets/63442f41-1c96-497d-a391-3b385d94b421)
+
+---
+
 A simple and interactive password input field with a toggle feature to show or hide the password, enhancing user experience and accessibility.
 
 ---
@@ -30,9 +38,27 @@ A simple and interactive password input field with a toggle feature to show or h
 
 ---
 
-## Demo.gif
 
-![Image](https://github.com/user-attachments/assets/63442f41-1c96-497d-a391-3b385d94b421)
+🙋‍♀️ Author
+Linga Bhavana – Frontend Developer
 
+GitHub | urstrulybhavana1432@gmail.com
+
+---
+
+
+📬 **Contact**
+
+For questions or suggestions, feel free to reach out:
+
+- 📧 **Email**: [urstrulybhavana1432@gmail.com](mailto:urstrulybhavana1432@gmail.com)  
+- 🐙 **GitHub**: [UrstrulyBhavana](https://github.com/UrstrulyBhavana)
+
+
+---
+
+📜 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 
